@@ -1,2 +1,16 @@
-# Aether.io
-An innovative Flutter app that lets you interact using voice commands. Ask questions, get real-time answers, and generate stunning AI-powered images effortlessly. Experience seamless hands-free interaction and unleash your creativity with this all-in-one voice and image-generation app!
+# voide_assist
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
